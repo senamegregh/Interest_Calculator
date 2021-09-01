@@ -14,7 +14,7 @@ compute();
 function validateAmount() { var principal = document.getElementById("principal").value;
 if(principal<="0") {
         alert("Enter a positive value");
-        principal.focus(); return principal;
+        document.getElementById("principal").focus(); return principal;
     }
 }
 validateAmount();
