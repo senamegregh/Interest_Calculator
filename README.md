@@ -1,4 +1,4 @@
-Simple Interest Calculator
+Simple Interest Calculator.
 The calculator is used to calculate the interest someone would get from an amount of deposit, based on the rate value and the number of years.
 The index.html file contains html codes that set the structure and the contents of the application.
 The style.css file has codes that output the sizes, the format of the index.html file. It also makes the yellow highlight output of the computing result of the interest.
